@@ -1,5 +1,4 @@
-﻿using ChessLogic.Pieces;
-
+﻿
 namespace ChessLogic
 {
     public class Board

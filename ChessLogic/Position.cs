@@ -8,7 +8,7 @@
         public Position(int row, int column)
         {
             Row = row;
-            Column = row;
+            Column = column;
         }
 
         public Player SquareColor()
